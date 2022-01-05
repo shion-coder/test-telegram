@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0",
+    "node-telegram-keyboard-wrapper": "^3.0.0",
+    "telegraf": "^4.5.2"
+  },
+  "name": "telegram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "engines": {
+    "node": "16.x"
+  }
+}
